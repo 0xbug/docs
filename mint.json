@@ -49,6 +49,13 @@
         "project",
         "application"
       ]
+    },{
+      "group": "项目",
+      "pages": [
+        "project/manage",
+        "project/export",
+        "project/share"
+      ]
     },
         {
       "group": "常见问题",
