@@ -33,19 +33,14 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "ASM平台",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://asm.biu.life"
     },
     {
-      "name": "Community",
+      "name": "情报助手",
       "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "url": "https://x.biu.life"
     }
   ],
   "navigation": [
