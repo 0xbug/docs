@@ -17,19 +17,19 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "name": "申请",
+      "url": "mailto:0xbug@biu.life"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://asm.biu.life"
   },
   "tabs": [
-    {
-      "name": "API Reference",
-      "url": "api-reference"
-    }
+    // {
+    //   "name": "API Reference",
+    //   "url": "api-reference"
+    // }
   ],
   "anchors": [
     {
