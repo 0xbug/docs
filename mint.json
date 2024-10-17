@@ -45,10 +45,15 @@
       "group": "快速入门",
       "pages": [
         "introduction",
-        "quickstart",
         "account",
-        "application",
-        "project"
+        "project",
+        "application"
+      ]
+    },
+        {
+      "group": "常见问题",
+      "pages": [
+        "why"
       ]
     }
   ],
