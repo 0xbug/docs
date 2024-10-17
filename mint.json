@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "申请",
-      "url": "mailto:0xbug@biu.life"
+      "name": "还没有账号?:flushed:",
+      "url": "https://github.com/0xbug/biu?tab=readme-ov-file#biu"
     }
   ],
   "topbarCtaButton": {
